@@ -1,2 +1,2 @@
 # DEMO Project README
-this is a simple reading file
+This is bound to case problem
